@@ -20,7 +20,7 @@ def get_weekday(year,month, day):
     
     return weekdays[ans]
 
-print weekday(1964,5,8)
+print get_weekday(1964,5,8)
 
 
 

@@ -11,7 +11,7 @@ and print all the possible permutations of the string:
 '''
 import itertools
 
-string = '212'
+string = 'hi!'
 z = itertools.permutations(string)
 for i in itertools.permutations(string):
     print ''.join(i)
